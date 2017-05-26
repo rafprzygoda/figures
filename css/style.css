@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Finger+Paint');
+
+body {
+    background-image: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/280h/VVXW9WBTB8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    display: block;
+    position:relative;
+    top: 200px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Finger Paint', cursive;
+    text-shadow: 3px 3px 5px #000;
+    color: firebrick;
+}
