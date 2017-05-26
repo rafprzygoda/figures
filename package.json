@@ -1,0 +1,29 @@
+{
+  "name": "triangle",
+  "version": "1.0.0",
+  "description": "figure fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafprzygoda/figures.git"
+  },
+  "keywords": [
+    "square",
+    "triangle"
+  ],
+  "author": "Rafal Przygoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafprzygoda/figures/issues"
+  },
+  "homepage": "https://github.com/rafprzygoda/figures#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
